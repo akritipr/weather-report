@@ -1,0 +1,34 @@
+.app-background{
+	background-color: #1b0882;
+	text-align: center;
+	min-height: 600px;
+}
+
+.heading{
+	padding-top: 50px;
+    font-size: 50px;
+    font-weight: bold;
+    color: #ddb805;
+}
+
+.sub-heading{
+	font-size: 30px;
+    font-weight: bold;
+    color: #00e526;
+}
+
+.weather{
+	font-size: 25px;
+    color: #d700db;
+}
+
+.para{
+	font-size: 18px;
+    color: #00e526;
+}
+
+a{
+	margin-right: 5px;
+    margin-left: 5px;
+    color:#fff;
+}
